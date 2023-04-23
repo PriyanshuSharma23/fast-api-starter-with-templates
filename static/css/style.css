@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f1f1f1;
+}
+
+.heading {
+    text-align: center;
+    display: flex;
+    margin: 50px 0;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
